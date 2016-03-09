@@ -2,7 +2,7 @@
 $dbconfig = require('./Public/config/dbconfig.inc.php');
 $webconfig = require('./Public/config/webconfig.inc.php');
 $config = array(
-	'URL_MODEL' => 2,
+	'URL_MODEL' => 3,
 	'SHOW_PAGE_TRACE' => true,//显示调试信息
 	'TMPL_TEMPLATE_SUFFIX' => '.htm',
 	'URL_CASE_INSENSITIVE' => true,

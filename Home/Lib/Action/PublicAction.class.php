@@ -5,5 +5,10 @@ class PublicAction extends Action{
 		import('ORG.Util.Image');
 		Image::buildImageVerify(4,1,gif,48,22,'verify');
 	}
+        //截取字字符串函数
+        public function cutWord(){
+            
+        }
+        
 }
 ?>
